@@ -8,7 +8,7 @@
 </p><p id="start" align="center">
 </p>
 
-# Sample Code: Basic Storage and Auth SDK Integration
+# Sample Code: Basic Auth SDK Integration
 
 The repository `auth-sample-integration-new` contains sample code to demonstrate how you can integrate your [Vue JavaScript Framework](https://vuejs.org/) UI application with the Arcana [Auth](https://github.com/arcana-network/auth) SDK.
 
